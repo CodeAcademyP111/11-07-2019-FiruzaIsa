@@ -1,0 +1,11 @@
+C:\Users\HP\Desktop\c#\DrugList\DrugList\bin\Debug\DrugList.exe.config
+C:\Users\HP\Desktop\c#\DrugList\DrugList\bin\Debug\DrugList.exe
+C:\Users\HP\Desktop\c#\DrugList\DrugList\bin\Debug\DrugList.pdb
+C:\Users\HP\Desktop\c#\DrugList\DrugList\obj\Debug\DrugList.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\c#\DrugList\DrugList\obj\Debug\DrugList.Properties.Resources.resources
+C:\Users\HP\Desktop\c#\DrugList\DrugList\obj\Debug\DrugList.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\c#\DrugList\DrugList\obj\Debug\DrugList.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\c#\DrugList\DrugList\obj\Debug\DrugList.exe
+C:\Users\HP\Desktop\c#\DrugList\DrugList\obj\Debug\DrugList.pdb
+C:\Users\HP\Desktop\c#\DrugList\DrugList\obj\Debug\DrugList.MainPage.resources
+C:\Users\HP\Desktop\c#\DrugList\DrugList\obj\Debug\DrugList.Login.resources
